@@ -13,5 +13,10 @@ namespace MyProject02.Controllers
         {
             return View();
         }
+
+        public ActionResult List()
+        {
+            return View();
+        }
     }
 }
